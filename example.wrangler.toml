@@ -3,7 +3,7 @@ main = "src/index.js"
 compatibility_date = "2024-02-08"
 
 [vars]
-BOT_TOKEN = "12345678:PAST-YOUR-BOT-TOKEN-HERE"
-BOT_USERNAME = "Auto_ReactionBOT"
+BOT_TOKEN = "6766798002:AAGew0bPm9xZrdkRDf13b1g5v6Sz45aiPIE"
+BOT_USERNAME = "Auto Reaction Bot"
 EMOJI_LIST = "👍❤🔥🥰👏😁🎉🤩🙏👌🕊😍🐳❤‍🔥💯⚡🏆"
 RESTRICTED_CHATS = "1234,5678"
